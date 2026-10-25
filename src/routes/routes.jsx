@@ -8,7 +8,7 @@ import ForgotPassword from "../pages/authentication/ForgotPassword";
 import ResetPassword from "../pages/authentication/ResetPassword";
 import SettingsPage from "../pages/SettingsPage.jsx";
 import Layout from "../components/Layout/Layout";
-import Dashboard from "../Pages/Dashboard";
+import Dashboard from "../pages/Dashboard";
 import UploadPage from "../pages/UploadPage";
 import AdminReportsPage from "../pages/AdminReportsPage.jsx";
 import AdminDashboardPage from "../pages/AdminDashboardPage.jsx";
