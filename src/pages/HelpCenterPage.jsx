@@ -20,13 +20,13 @@ import {
   HELP_GUIDES,
   HELP_TUTORIALS
 } from "../constants/helpCenterData";
-import FAQAccordion from "../components/help/FAQAccordion";
-import GuideView from "../components/help/GuideView";
-import VideoTutorials from "../components/help/VideoTutorials";
-import ContactSupportForm from "../components/help/ContactSupportForm";
-import TicketList from "../components/help/TicketList";
-import TicketDetails from "../components/help/TicketDetails";
-import SystemStatus from "../components/help/SystemStatus";
+import FAQAccordion from "../components/Help/FAQAccordion";
+import GuideView from "../components/Help/GuideView";
+import VideoTutorials from "../components/Help/VideoTutorials";
+import ContactSupportForm from "../components/Help/ContactSupportForm";
+import TicketList from "../components/Help/TicketList";
+import TicketDetails from "../components/Help/TicketDetails";
+import SystemStatus from "../components/Help/SystemStatus";
 import { supportService } from "../services/supportService";
 
 export default function HelpCenterPage() {
